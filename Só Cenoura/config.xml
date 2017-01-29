@@ -15,4 +15,8 @@
     <author href="http://Continuum.com.br" email="continuum@continuum.com.br">
         Kevyn Marinho
     </author>
+
+    <icon src="icon.png" />
+    <plugin name="cordova-plugin-splashscreen" />
+    <splash src="splash.png" />
 </widget>
