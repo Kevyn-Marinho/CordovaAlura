@@ -1,11 +1,18 @@
-<?XML version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0"
-        version="1.0.0" id="br.com.continuum.cenourapp" >
+        id="br.com.continuum.cenourapp"
+        version="1.0.0">
 
-    <name>Cenoura App</name>
-    <author>Kevyn Marinho</author>
+    <name>
+        Só de Cenoura
+    </name>
 
-    <icon src="icon.png"/>
-    <gap:splash src="splash.png"/>
+    <description>
+        Menu do restaurante Só de Cenoura.
+    </description>
+
+    <author href="http://sergiolopes.org" email="qualquer@sergiolopes.org">
+        Sérgio Lopes
+    </author>
 </widget>
