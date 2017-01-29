@@ -1,8 +1,11 @@
-<?XML version="1.0" encoding="UTF-8">
+<?XML version="1.0" encoding="UTF-8" ?>
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0"
         version="1.0.0" id="br.com.continuum.cenourapp" >
 
     <name>Cenoura App</name>
     <author>Kevyn Marinho</author>
+
+    <icon src="icon.png"/>
+    <gap:splash src="splash.png"/>
 </widget>
